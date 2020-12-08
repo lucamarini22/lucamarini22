@@ -6,5 +6,5 @@
 
 **Visitor counter**:
 <p align="left"> 
-  <img src="https://profile-counter.glitch.me/daniCh8/count.svg" />
+  <img src="https://profile-counter.glitch.me/lucamarini22/count.svg" />
 </p>
