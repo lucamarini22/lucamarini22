@@ -9,9 +9,9 @@
 ![lucamarini's github stats](https://github-readme-stats.vercel.app/api?username=lucamarini22&theme=gotham&show_icons=true)
 
 
-**Visitor counter**:
-<p align="left"> 
-  <img src="https://profile-counter.glitch.me/lucamarini22/count.svg" />
-</p>
+<!--**Visitor counter**:
+<!--<p align="left"> 
+<!-- <img src="https://profile-counter.glitch.me/lucamarini22/count.svg" />
+<!-- </p>
 
-See you soon!
+<!-- See you soon!
