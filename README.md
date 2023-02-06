@@ -1,7 +1,3 @@
-ao
-
-
-
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucamarini22)](https://github.com/lucamarini22?tab=repositories)-->
 
